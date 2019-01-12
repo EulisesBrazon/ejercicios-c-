@@ -1,11 +1,11 @@
 # 1) 
-Escriba un programa que reciba como entrada el radio de un círculo y entregue como salida su perímetro y su área
+Escriba un programa que reciba como entrada el radio de un círculo y entregue como salida su perímetro y su área.
 # 2)
-Escriba un programa que calcule el promedio de 4 notas ingresadas por el usuario
+Escriba un programa que calcule el promedio de 4 notas ingresadas por el usuario.
 # 3)
-Escriba un programa que convierta de pulgadas a mm, cm, dm, m, DM, HM, KM. Una pulgada equivale a 2.54 cm
+Escriba un programa que convierta de pulgadas a mm, cm, dm, m, DM, HM, KM. Una pulgada equivale a 2.54 cm.
 # 4)
-Escriba un programa que pida al usuario un entero de tres dígitos, y entregue el número con los dígitos en orden inverso, Debe validad que el numero este entre 100 y 999 para realizar el proceso
+Escriba un programa que pida al usuario un entero de tres dígitos, y entregue el número con los dígitos en orden inverso, Debe validad que el numero este entre 100 y 999 para realizar el proceso.
 # 5)
 Escriba un programa que reciba como entrada las longitudes de los dos catetos  de un triángulo rectángulo, y que entregue como salida el largo de la hipotenusa  del triangulo, dado por el teorema de Pitágoras.
 # 6)
@@ -63,46 +63,45 @@ Realice un programa que permita calcular el coeficiente binomial
 # 20)
 Realice un programa que realice serie de FIBONACCI
 # 21)
-Realice un programa que utilice la formula cinemática para el cálculo de la distancia
+Realice un programa que utilice la formula cinemática para el cálculo de la distancia.
 # 22)
-Dados  n números  indica cual es el mayor de estos y el menor
+Dados  n números  indica cual es el mayor de estos y el menor.
 # 23)
-Realice el problema anterior pero cargando los n números en un arreglo, los números deberán ser generados de manera aleatoria. El programa debe devolver la posición del arreglo en donde se encuentran el mayor y menor numero
+Realice el problema anterior pero cargando los n números en un arreglo, los números deberán ser generados de manera aleatoria. El programa debe devolver la posición del arreglo en donde se encuentran el mayor y menor numero.
 # 24)
-Cargue un arreglo con n números generados aleatoriamente estos números deben estar en el rango comprendido entre 100 y 999 luego ordene el arreglo utilizando el método de la burbuja
+Cargue un arreglo con n números generados aleatoriamente estos números deben estar en el rango comprendido entre 100 y 999 luego ordene el arreglo utilizando el método de la burbuja.
 # 25)
-Se requiere un programa que permita determinar las ventas de cada uno de los días de ese mes. Como dato de entrada debe indicar el año y el además debe verificar en el caso de que el mes sea febrero si es o no bisiesto 
+Se requiere un programa que permita determinar las ventas de cada uno de los días de ese mes. Como dato de entrada debe indicar el año y el además debe verificar en el caso de que el mes sea febrero si es o no bisiesto .
 # 26)
-Lea un arreglo con n números generados aleatoriamente y determine la suma, promedio y moda del mismo
+Lea un arreglo con n números generados aleatoriamente y determine la suma, promedio y moda del mismo.
 # 27)
-Realice un programa que reciba como dato un numero y determine si e   es palíndroma
+Realice un programa que reciba como dato un numero y determine si e   es palíndroma.
 # 28)
-Realice un programa que reciba como entrada una palabra y determine si es capicúa
+Realice un programa que reciba como entrada una palabra y determine si es capicúa.
 # 29)
 Se tiene una sección con cinco alumnos, cada alumno presenta cuatro evaluaciones, se pide que se muestre un reporte ordenado por nota en orden creciente de cada alumno, la nota final de cada estudiante es la sumatoria de las notas entre 4.
 Sugerencia utilice arreglos
 # 30)
 Realice un programa que permita leer una oración y determine el numero  de palabras que la conforman
 # 31)
-Genere dos arreglos de tamaño N y calcule el producto interno
+Genere dos arreglos de tamaño N y calcule el producto interno.
 # 32)
-Realice un programa que reciba una matriz de orden mxn y la rote
-# 33)
-Escriba una función que reciba un arreglo e indique si se trata o no de un cuadrado mágico
+Realice un programa que reciba una matriz de orden mxn y la rote.
+Escriba una función que reciba un arreglo e indique si se trata o no de un cuadrado mágico.
 # 34)
-Escriba una expresión polinomica utilizando arreglos y luego determine su derivada
+Escriba una expresión polinomica utilizando arreglos y luego determine su derivada.
 # 35)
-Realice un programa que guarde en una matriz de orden el triangulo de PASCAL
+Realice un programa que guarde en una matriz de orden el triangulo de PASCAL.
 # 36)
-Realice un programa que reciba una temperatura en grados centígrados y devuelva su equivalente en grados KELVIN y Fahrenheite
+Realice un programa que reciba una temperatura en grados centígrados y devuelva su equivalente en grados KELVIN y Fahrenheite.
 # 37)
-Realice un programa que cargue un arreglo con n números naturales generados aleatoriamente y agregue en otro arreglos con la siguiente regla: primera mitad decreciente y segunda mitad creciente
+Realice un programa que cargue un arreglo con n números naturales generados aleatoriamente y agregue en otro arreglos con la siguiente regla: primera mitad decreciente y segunda mitad creciente.
 # 38)
 Calcular la paga neta de un trabajador conociendo el número de horas trabajadas, la tarifa horaria y la tasa de impuestos. 
 # 39)
-Realice un programa que permita calcular las solución de una ecuación de segundo grado
+Realice un programa que permita calcular las solución de una ecuación de segundo grado.
 # 40)
-En un videoclub se ofrece la promoción de llevarse tres películas por el precio de las dos más baratas. Haga un programa que, dados los tres precios de las películas, determine la cantidad a pagar
+En un videoclub se ofrece la promoción de llevarse tres películas por el precio de las dos más baratas. Haga un programa que, dados los tres precios de las películas, determine la cantidad a pagar.
 # 41)
 El juego de dados conocido como “craps” (tiro perdedor) es muy popular, realice un programa que simule dicho juego, a continuación se muestran las reglas para los jugadores. 
 
@@ -117,4 +116,10 @@ Si a la primera tirada la suma es 2, 3 o 12 (conocido como “craps”), el juga
 Si a la primera tirada la suma es 4, 5, 6, 8, 9 ó 10, entonces dicha suma se convierte en el “punto” 
 o en la “tirada”. 
 
-Para ganar, el jugador deberá continuar tirando los dados hasta que haga su 
+Para ganar, el jugador deberá continuar tirando los dados hasta que haga su “tirada”. 
+
+El jugador perderá si antes de hacer su tirada sale una tirada de 7. 
+# 42)
+Realice un laberinto utilizando matrices con una altura y anchura de 50, Ademas debe de tener una presentacion con la palabra de su preferencia realizada en grande utilizando recorridos en las matrices.
+# 43)
+realice un editor de texto que justifique sus lineas con un tamaño de 10x50 y tenga la posibilidad de corregir mayúsculas y minusculas.
