@@ -52,7 +52,7 @@ Suma = 1+4 +3 +16+125
 Realice un programa que genere un histograma para números primos, impares o pares. Debe indicar el numero N de números a cargar
 # 17)
 La funciones seno y coseno puede ser representadas mediante sumas infinitas:
-![Seno y Coseno](imagene/seno_y_coseno.png)
+![Seno y Coseno](../imagenes/seno_y_coseno.png)
 aumentar la capacidad
 Haga un menú para seleccionar el calculo seno o coseno
 Indique el valor de x para generar la sumatoria Indique el numero de términos a generar este debe ser mayora a 10
