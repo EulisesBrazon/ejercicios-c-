@@ -122,4 +122,10 @@ El jugador perderá si antes de hacer su tirada sale una tirada de 7.
 # 42)
 Realice un laberinto utilizando matrices con una altura y anchura de 50, Ademas debe de tener una presentacion con la palabra de su preferencia realizada en grande utilizando recorridos en las matrices.
 # 43)
-realice un editor de texto que justifique sus lineas con un tamaño de 10x50 y tenga la posibilidad de corregir mayúsculas y minusculas.
+Realice un editor de texto que justifique sus lineas con un tamaño de 10x50 y tenga la posibilidad de corregir mayúsculas y minusculas.
+# 44) 
+Realice una agenda de contactos que contenga las opciones de:
+   a- Crear un nuevo contacto
+	b- Mostrar lista de contactos ordenada
+	c- Buscar contacto por apellido
+	d- Eliminar contacto
