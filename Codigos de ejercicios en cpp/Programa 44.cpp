@@ -5,6 +5,7 @@
 #define nu 12
 #define te 10
 using namespace std;
+//creado en 12/11/2018
 int mes_31(int a)
 {   int x=0;
 	if(a>=1 && a<=31)
@@ -80,7 +81,7 @@ class fecha
 		{
 			do
 	        {
-	    	    cout<<"Año de nacimiento?"<<endl;
+	    	    cout<<"AÃ±o de nacimiento?"<<endl;
         	    cin>>anno;
         	}while(anno>anno);
         	do
